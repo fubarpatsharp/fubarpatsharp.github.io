@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ru/cases/24serv.pro-landing", {data:[{}],fetch:[],mutations:void 0});
