@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/ru/cases/pocketlife", {data:[{}],fetch:[],mutations:void 0});

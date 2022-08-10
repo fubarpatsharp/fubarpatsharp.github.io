@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/uk/cases/24serv.pro-panel", {data:[{}],fetch:[],mutations:void 0});

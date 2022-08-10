@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/cases/fubarpatsharp.github.io", {data:[{}],fetch:[],mutations:void 0});

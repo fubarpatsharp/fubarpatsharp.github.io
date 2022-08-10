@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/uk/cases/undercover", {data:[{}],fetch:[],mutations:void 0});
